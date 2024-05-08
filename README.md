@@ -1,8 +1,8 @@
+![Hide and Seek](https://github.com/sourceduty/Virtual_Hide_and_Seek/assets/123030236/c8f7c6dc-2037-424c-9282-238c02b9324e)
+
 ### Virtual Hide & Seek
 
 **Virtual Hide and Seek** is a game concept designed for 2 or more players using social media accounts and communication.
-
-![Hide and Seek](https://github.com/sourceduty/Virtual_Hide_and_Seek/assets/123030236/c8f7c6dc-2037-424c-9282-238c02b9324e)
 
 ##### Game Instructions:
 
